@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nhllib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/nhllib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
